@@ -1,0 +1,6 @@
+os-sys
+zlib-state
+pybase64
+omero-marshal
+jsonlib
+urllib3
